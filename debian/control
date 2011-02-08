@@ -1,0 +1,16 @@
+Source: nose-achievements
+Section: python
+Priority: extra
+Maintainer: Ricardo Kirkner <ricardo@kirkner.com.ar>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+Homepage: http://exogen.github.com/nose-achievements/
+
+Package: nose-achievements
+Architecture: all
+Depends: ${misc:Depends}
+Description: Unit Testing Achievements
+ Unlock achievements for running your test suite!
+ Works with nose, unittest, and Django
+ Tested with Python 2.6 and 3.1
+ Entry points for discovering more achievements
