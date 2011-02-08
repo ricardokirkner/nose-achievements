@@ -2,13 +2,12 @@ Source: nose-achievements
 Section: python
 Priority: optional
 Maintainer: Ricardo Kirkner <ricardo@kirkner.com.ar>
-Build-Depends: debhelper (>= 7.0.50~)
+Build-Depends: debhelper (>= 7.0.50~),
+ python-dev (>= 2.6),
+ python-setuptools (>= 0.6a9),
+ python-support (>= 0.90.0)
 Standards-Version: 3.9.1
 Homepage: http://exogen.github.com/nose-achievements/
-Build-Depends: python-dev (>= 2.6),
- python-setuptools (>= 0.6a9),
- debhelper (>= 7.0.50~),
- python-support (>= 0.90.0)
 
 Package: python-nose-achievements
 Architecture: all
