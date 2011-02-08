@@ -1,5 +1,5 @@
 nose-achievements (0.2pre-1) unstable; urgency=low
 
-  * Initial Release.
+  * Initial Release. (Closes: #612374)
 
  -- Ricardo Kirkner <ricardo@kirkner.com.ar>  Mon, 07 Feb 2011 22:45:30 -0300
